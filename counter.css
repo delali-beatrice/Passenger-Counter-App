@@ -1,0 +1,59 @@
+body{
+    background-image: url("image.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 95vh;
+}
+ .container{
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 20px;
+    height: auto;
+    width: auto;
+    border-radius: 10px;
+ }
+
+ h1{
+    text-align: center;
+    font-size: 40px;
+ }
+
+ #count-el{
+    text-align: center;
+    font-size: 40px;
+ }
+
+ .btn-container{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+ }
+ #increment-btn{
+    display: block;
+    margin: auto;
+    height: 7vh;
+    width: 45vh;
+    background-color: rgb(6, 250, 67);
+    border-radius: 5px;
+    border: none;
+    font-size: large;
+ }
+
+ #save-btn{
+    height: 7vh;
+    width: 35vh;
+    display: block;
+    margin: auto;
+    background-color: rgb(44, 44, 231);
+    border-radius: 5px;
+    border: none;
+    font-size: large;
+ }
+
+ #save-el{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+ }
