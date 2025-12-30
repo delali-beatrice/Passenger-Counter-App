@@ -20,7 +20,7 @@ The app allows users to increment a passenger count and save previous entries.
 - JavaScript (DOM Manipulation)
 
 ## 📸 Screenshot
-![Passenger Counter Screenshot](screenshot.png)
+![Passenger Counter Screenshot](screenshot.PNG)
 
 
 ## 🚀 How to Deploy on GitHub Pages
