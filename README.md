@@ -24,7 +24,7 @@ The app allows users to increment a passenger count and save previous entries.
 
 ## 📂 How to Run Locally
 1. Download or clone the repository
-2. Open `counter.html` in your browser
+2. Open `index.html` in your browser
 
 ## 📌 Project Purpose
 This project was created to practice:
